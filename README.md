@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankvashishtha18" alt="shashankvashishtha18" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shanks_hi" target="blank"><img src="https://img.shields.io/twitter/follow/shanks_hi?logo=twitter&style=for-the-badge" alt="shanks_hi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shashaank1243" target="blank"><img src="https://img.shields.io/twitter/follow/shashaank1243?logo=twitter&style=for-the-badge" alt="shashaank1243" /></a> </p>
 
 - 🌱 I’m currently learning **Next js , django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shanks_hi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shanks_hi" height="30" width="40" /></a>
+<a href="https://twitter.com/shashaank1243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashaank1243" height="30" width="40" /></a>
 <a href="https://instagram.com/sashhh.ank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sashhh.ank" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shashankvashishtha27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashankvashishtha27" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shashankvashishtha27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shashankvashishtha27" height="30" width="40" /></a>
