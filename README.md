@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shashank Vashishtha
+# 👋 Hi, I'm Shashank Vashishth
 
 🎓 **Computer Science Graduate (2024)** from Galgotias University  
 💼 **Program Manager at IILM University**  
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer who loves building clean, scalable full-stack applications. My strengths lie in React.js, Node.js, Express.js, and MongoDB with additional command-line utility development experience using C++. I'm also well-versed in RESTful API design, Firebase integration, and Agile development.
+I'm a dedicated software developer aiming for SDE and Full-Stack roles, with a strong foundation in data structures, algorithms, and object-oriented programming. I specialize in building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), and I have experience designing RESTful APIs, integrating cloud services like Firebase, and writing clean, maintainable code. I’m also comfortable working with C++ for systems-level tasks and enjoy contributing to projects that follow Agile workflows and modern development practices.
 
 ---
 
