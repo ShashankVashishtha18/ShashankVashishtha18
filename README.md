@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shashank Vashishth
 
 🎓 **Computer Science Graduate (2024)** from Galgotias University  
-💼 **Program Manager at IILM University**  
+💼 **Website Developer at IILM University**  
 💻 **Full-Stack Developer | C++ Programmer | MERN Stack Enthusiast**  
 🌐 [GitHub](https://github.com/ShashankVashishtha18) | [LinkedIn](https://www.linkedin.com/in/shashank-vashishth-40905a202/) | 📧 shashankvashishtha27@gmail.com
 
