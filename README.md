@@ -7,13 +7,16 @@
 
 ---
 
-## 🚀 About Me
+About Me
 
-I'm a dedicated software developer aiming for SDE and Full-Stack roles, with a strong foundation in data structures, algorithms, and object-oriented programming. I specialize in building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), and I have experience designing RESTful APIs, integrating cloud services like Firebase, and writing clean, maintainable code. I’m also comfortable working with C++ for systems-level tasks and enjoy contributing to projects that follow Agile workflows and modern development practices.
+I'm a dedicated Software Developer currently working at IILM University as a Website Developer, where I maintain and enhance the university's official website with a focus on responsive design, CMS integration, and API-driven content updates. I'm actively aiming for SDE and Full-Stack Developer roles, with a strong foundation in data structures, algorithms, and object-oriented programming.
+
+I specialize in building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), and have hands-on experience in designing RESTful APIs, integrating cloud services like Firebase, and writing clean, modular, and maintainable code. I'm also proficient in C++, particularly for systems-level programming and CLI tools. I enjoy working in Agile environments and contributing to meaningful, production-ready software.
+
 
 ---
 
-## 🛠️ Tech Stack
+Tech Stack
 
 **Languages**: C/C++, JavaScript, HTML/CSS  
 **Frontend**: React.js, Tailwind CSS, Zustand, Redux (basic), Bootstrap  
@@ -24,7 +27,7 @@ I'm a dedicated software developer aiming for SDE and Full-Stack roles, with a s
 
 ---
 
-## 📂 Featured Projects
+Featured Projects
 
 ### 📸 [Instagram Clone](https://github.com/ShashankVashishtha18)
 > MERN Stack Social Media App  
@@ -58,9 +61,9 @@ A full-featured Instagram clone with user authentication, secure image upload, a
 
 ---
 
-## 💼 Experience
+Experience
 
-**Program Manager @ IILM University** *(Sep 2024 – Present)*  
+**Web Developer @ IILM University** *(Sep 2024 – Present)*  
 - Manage and maintain the official university website  
 - Collaborate with academic teams to update backend content (course info, events, faculty data)  
 - Work closely with developers using Agile practices, Git version control, and CMS for dynamic content updates
@@ -96,8 +99,7 @@ A full-featured Instagram clone with user authentication, secure image upload, a
 - 🔭 I’m currently working on: FinancePro Dashboard  
 - 🌱 I’m currently learning: Advanced React and System Design  
 - 💬 Ask me about: MERN Stack, Git, Firebase  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I can debug for hours but still forget `console.log()` 😄
+- 😄 Pronouns: He/Him
 
 ---
 
